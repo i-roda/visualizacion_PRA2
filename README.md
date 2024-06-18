@@ -26,7 +26,7 @@ Incluye el script en Python y el notebook de Jupyter que realizan el procesamien
 - `PRA2_Visualizacion.ipynb`: Notebook de Jupyter que permite visualizar paso a paso el mismo proceso.
 
 ## Visualización
-La visualización se encuentra disponible en: 
+La visualización se encuentra disponible en: https://public.flourish.studio/story/2439950/
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia Pública General de GNU, versión 3 (GPL-3.0). Puedes consultar el texto completo de la licencia en el archivo `LICENSE` incluido en este repositorio o a través de [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
