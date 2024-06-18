@@ -1,7 +1,7 @@
 # Visualización de datos
 ## PRA2 - Proyecto de visualización
 
-Asignatura: M2.859 / Semestre: 2023-2 / Fecha: 04-05-2024
+Asignatura: M2.859 / Semestre: 2023-2 / Fecha: 18-06-2024
 
 ## Descripción del repositorio
 Este repositorio forma parte de la **Práctica (parte II)** de la asignatura **Visualización de datos (M2.859)** del
